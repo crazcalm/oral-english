@@ -4,8 +4,8 @@
 	name: Marcus Willock
 	wechat id: marcus776985
 	email: marcuswillock@qq.com
-	Office hours: MWF 15:00-16:30
-	classroom: 52011
+	Office 
+	classroom:
 	
 ## Class rules/Policies
 
