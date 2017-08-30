@@ -1,8 +1,8 @@
 # TEFL Activities
 A curated list of awesome TEFL classroom activities.
 
-###Contributing
-Do later
+### Contributing
+**TODO:** Add rules for contributing
 
 ### Content
 - [Cocktail Party](#cocktail-party)
