@@ -8,7 +8,6 @@
 - classroom:
 	
 ## Class rules/Policies
-
 ### Be Prepared:
 This means that you are responsible for bringing paper, pencil, and any other materials you may need for class.
 
@@ -17,11 +16,19 @@ Make sure that you are on time for class.
 
 ### Participate:
 This means speaking a lot in class.
-	
+
+###Teacher Responsibilities:
+I am responsible for:
+- Being prepared.
+- Being on time.
+- Keeping class interesting.
+- Making classroom materials available to you.
+
 ## Grading Information
-* **Attendance: 10%** You much attend 85% of the classes to received attendance points in the final course score. You must attend at least 70% of the classes in order to take the final exam. 
-* **Participation: 20%**
-* **Major Assignments, written work and homework: 30%** Some work will be completed during class time, but students **must** work outside of class time in order to complete some of the assignments.
+* **Attendance: 5%** You much attend 85% of the classes to received attendance points in the final course score. You must attend at least 70% of the classes in order to take the final exam. 
+* **Participation: 10%** Being active in class, Speaking when you know the answer and when you do not know the answer, and helping out other students.
+* **Major Assignments, written work and homework: 15%** Some work will be completed during class time, but students **must** work outside of class time in order to complete some of the assignments.
+* **Mid term: 30%**
 * **Final: 40%**
 
 ## Assessment plans
