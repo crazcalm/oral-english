@@ -6,7 +6,7 @@ Do later
 
 ### Content
 - [Cocktail Party](#cocktail-party)
-- [Hands on biography](hands-on-biography)
+- [Hands on biography](#hands-on-biography)
 - [Three Act Play](#three-act-play)
 
 ## Cocktail Party
