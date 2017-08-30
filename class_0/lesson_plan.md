@@ -2,9 +2,9 @@
 
 ## Logistics:
 Must go over:
-- Class theme
-- Class grading
-- Class expectations
+- [Class theme](https://github.com/crazcalm/oral-english/tree/master/semester_plan#theme)
+- [Class grading](https://github.com/crazcalm/oral-english/tree/master/semester_plan#grading-information)
+- [Class expectations](https://github.com/crazcalm/oral-english/tree/master/semester_plan#class-rulespolicies)
 - Class group (wechat or qq)
 
 
