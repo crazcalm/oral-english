@@ -17,7 +17,7 @@ Make sure that you are on time for class.
 ### Participate:
 This means speaking a lot in class.
 
-###Teacher Responsibilities:
+### Teacher Responsibilities:
 I am responsible for:
 - Being prepared.
 - Being on time.

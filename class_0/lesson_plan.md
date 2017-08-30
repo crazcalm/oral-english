@@ -1,5 +1,13 @@
 # Who am I
 
+## Logistics:
+Must go over:
+- Class theme
+- Class grading
+- Class expectations
+- Class group (wechat or qq)
+
+
 ## Objectives:
 By the end of this lesson, students will be able to introduce themselves to the appropriately to the social circles that are family, friends, and coworkers.
 
