@@ -1,23 +1,22 @@
 
 # Semester Plan
 ## Teacher Contact:
-	name: Marcus Willock
-	wechat id: marcus776985
-	email: marcuswillock@qq.com
-	Office 
-	classroom:
+- name: Marcus Willock
+- wechat id: marcus776985
+- email: marcuswillock@qq.com
+- Office 
+- classroom:
 	
 ## Class rules/Policies
 
 ### Be Prepared:
-	This means that you are responsible for bringing paper, pencil,
-	and any other materials you may need for class.
+This means that you are responsible for bringing paper, pencil, and any other materials you may need for class.
 
 ### Be on time:
-	Make sure that you are on time for class.
+Make sure that you are on time for class.
 
 ### Participate:
-	This means speaking a lot in class.
+This means speaking a lot in class.
 	
 ## Grading Information
 * **Attendance: 10%** You much attend 85% of the classes to received attendance points in the final course score. You must attend at least 70% of the classes in order to take the final exam. 
@@ -27,37 +26,12 @@
 
 ## Assessment plans
 ### Initial
-	I will find a video clip of people giving introductions. We will
-	watch the video 3 times. The students will have a sheet of things
-	to look for in the video. During the first of the video, I will
-	observe them while they watch the video. Based on their reaction,
-	I will either directly play the video again or asked them a few
-	simple questions before playing the video again. After the second
-	take of the video, I will ask them some questions and then play
-	the video again. After the third take, I will go over the sheet
-	with them. If I believe their levels are higher/lower than
-	expected, I will then modify the rest of the lesson to their
-	level.
+I will find a video clip of people giving introductions. We will watch the video 3 times. The students will have a sheet of things to look for in the video. During the first of the video, I will observe them while they watch the video. Based on their reaction, I will either directly play the video again or asked them a few simple questions before playing the video again. After the second take of the video, I will ask them some questions and then play the video again. After the third take, I will go over the sheet with them. If I believe their levels are higher/lower than expected, I will then modify the rest of the lesson to their level.
+
 ### Final
-	A group presentation where each groups chooses a topic to present
-	on using three prospectives (friends, family, and work
-	professional setting). The presentation must last at least 10
-	minutes. Each person must speak for at least 2 minutes. The
-	presentation must include at least 8 sentence structures studied
-	throughout the course and topic must be approved by the teacher.
-	A draft/script/outline of the presentation must be submitted at
-	least one day before the presentation.
+A group presentation where each groups chooses a topic to present on using three prospectives (friends, family, and work professional setting). The presentation must last at least 10 minutes. Each person must speak for at least 2 minutes. The presentation must include at least 8 sentence structures studied throughout the course and topic must be approved by the teacher. A draft/script/outline of the presentation must be submitted at least one day before the presentation.
 	
-	I will try to limit the topics to the ones covered in class. As
-	such, I am able to compare their presentation to the content that
-	was covered in class. Having the students approach the same topic
-	from three different perspectives allows me to judge their
-	presentation based on their understanding of how the social
-	customs of these groups are different. Having each person speak
-	for at least 2 minutes allows me judge their English. Having them
-	turn in a draft allows me to gain a basic expectation of what I
-	can expect from their presentation and it gives me a reference
-	that I can use post their presentation to help me with grading.
+I will try to limit the topics to the ones covered in class. As such, I am able to compare their presentation to the content that was covered in class. Having the students approach the same topic from three different perspectives allows me to judge their presentation based on their understanding of how the social customs of these groups are different. Having each person speak for at least 2 minutes allows me judge their English. Having them turn in a draft allows me to gain a basic expectation of what I can expect from their presentation and it gives me a reference that I can use post their presentation to help me with grading.
 
 ## Speaking goals:
 * **A** Can hold conversations in fairly fluent English with native English-speakers on familiar topics, maintain the conversation or discussion, and agree or disagree with the other party.
@@ -71,32 +45,23 @@
 ## Course Schedule
 
 ### Theme:
-	The worlds we live in. Each one of use have at least three
-	different social contexts in which we live: Friends, Family, and
-	Work/School. We will explore the similarities and differences in
-	conversing in the above contexts.
+The worlds we live in. Each one of use have at least three different social contexts in which we live: Friends, Family, and Work/School. We will explore the similarities and differences in conversing in the above contexts.
 
 ### Week 1:
 
 #### Topic:
-	Who am I? (Fresh off the boat 103 - 7:20)
-	(fresh prince of bel-air 102 -- Jazz introduction)
+Who am I? (Fresh off the boat 103 - 7:20) (fresh prince of bel-air 102 -- Jazz introduction)
 #### Language Skills(F):
-	By the end of this lesson, students will be able to introduce
-	themselves appropriately to the social circle that they are
-	interacting with.
+By the end of this lesson, students will be able to introduce themselves appropriately to the social circle that they are interacting with.
 	
-	Family (distant relatives): Name, relation, generic job/school
-	information, relationship status, etc
+Family (distant relatives): Name, relation, generic job/school information, relationship status, etc
 	
-	Friends (making friends): Name, interests, hobbies, school/job
+Friends (making friends): Name, interests, hobbies, school/job
 	
-	Coworker: Name, interests, where you live, job experience. 
+Coworker: Name, interests, where you live, job experience. 
 	
 #### Content Skills:
-	We will explore introducing oneself in three different events.
-	One event involving family, one involving friends, and one
-	involving coworkers.
+We will explore introducing oneself in three different events. One event involving family, one involving friends, and one involving coworkers.
 
 ### Week 2:
 #### Topic:
