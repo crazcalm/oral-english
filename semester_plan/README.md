@@ -4,8 +4,7 @@
 - name: Marcus Willock
 - wechat id: marcus776985
 - email: marcuswillock@qq.com
-- Office 
-- classroom:
+- Office: 
 	
 ## Class rules/Policies
 ### Be Prepared:
@@ -55,7 +54,7 @@ I will try to limit the topics to the ones covered in class. As such, I am able 
 ### Theme:
 The worlds we live in. Each one of use have at least three different social contexts in which we live: Friends, Family, and Work/School. We will explore the similarities and differences of these worlds.
 
-### Week 1:
+### Class 1:
 
 #### Topic:
 Who am I? (Fresh off the boat 103 - 7:20) (fresh prince of bel-air 102 -- Jazz introduction)
@@ -65,168 +64,127 @@ By the end of this lesson, students will be able to introduce themselves, family
 #### Content Skills:
 We will explore introducing oneself in three different events. One event involving family, one involving friends, and one involving coworkers.
 
-### Week 2:
+### Class 2:
 #### Topic:
-	What do I do?
+What do I do?
 #### Language Skills(E):
-	By the end of this lesson, students will be able to describe 3
-	hobbies/activities that they do with each social circle
-	(friends, family, and coworkers)
+By the end of this lesson, students will be able to describe 3 hobbies/activities that they do with each social circle (friends, family, and coworkers)
 #### Content Skills:
-	Discussing what do I do with my friends, what do I do with my
-	family, and what do I do at work.
+Discussing what do I do with my friends, what do I do with my family, and what do I do at work.
 
-### Week 3:
+### Class 3:
 #### Topic:
-	How do I ask for help?
+How do I ask for help?
 #### Language Skills(C):
-	By the end of this lesson, students will be able to ask their
-	family for help in a culturally polite and respectable way.
+By the end of this lesson, students will be able to ask their family for help in a culturally polite and respectable way.
 #### Content Skills:
-	Given a specific situation, who should I reach out to for help?
-	Also, depending on that persons status (friend, family, working
-	professional), how should I go about asking them for help?
+Given a specific situation, who should I reach out to for help? Also, depending on that persons status (friend, family, working professional), how should I go about asking them for help?
 
-### Week 4:
+### Class 4:
 #### Topic:
-	What to do when sick?
+What to do when sick?
 #### Language Skills(D):
-	By the end of this lesson, students will be able to request leave
-	from work, express being sick to their friends, and exaggerate
-	their sickness to their families. 
+By the end of this lesson, students will be able to request leave from work, express being sick to their friends, and exaggerate their sickness to their families. 
 #### Content Skills:
-	How do you deal with being sick at work, around your friends,
-	and at home.
+How do you deal with being sick at work, around your friends, and at home.
 
-### Week 5:
+### Class 5:
 #### Topic:
-	Birthday celebrations
+Birthday celebrations
 #### Language Skills(B):
-	By the end of this lesson, students will be able to describe
-	birthday celebrations with friends, family, and coworkers using
-	8 or more vocab words.
+By the end of this lesson, students will be able to describe birthday celebrations with friends, family, and coworkers using 8 or more vocab words.
 #### Content Skills:
-	How you celebrate birthdays with friends, family, and coworkers.
+How you celebrate birthdays with friends, family, and coworkers.
 
-### Week 6:
+### Class 6:
 #### Topic (friends):
-	Presenting a united front (Black-ish -- older kids babysit
-	younger kids episode)
+Presenting a united front (Black-ish -- older kids babysit younger kids episode)
 #### Language Skills(D):
-	By the end of this lesson, students will be able to, in groups of
-	3 to 4 people, create a cover up story for a real incident and
-	stick to it when confronted with questions. 
+By the end of this lesson, students will be able to, in groups of 3 to 4 people, create a cover up story for a real incident and stick to it when confronted with questions. 
 #### Content Skills:
-	How to create a believable story based on misinterpreted facts of
-	a real situation?
+How to create a believable story based on misinterpreted facts of a real situation?
 
-### Week 7:
+### Class 7:
 #### Topic (family):
-	family vacation
+family vacation
 #### Language Skills (B):
-	By the end of the lesson, the students will be able to look at an
-	amusement park map and express their plans on how they plan on
-	traveling the park. 
+By the end of the lesson, the students will be able to look at an amusement park map and express their plans on how they plan on traveling the park. 
 #### Content Skills:
-	We will go over vacation spots and amusement parks. We will also
-	go over park maps and go over how to travel around the park.
+We will go over vacation spots and amusement parks. We will also go over park maps and go over how to travel around the park.
 
 
-### Week 8:
+### Class 8:
 #### Topic (work):
-	What is your ideal job?
+What is your ideal job?
 #### Language Skills (C):
-	By the end the lesson, students will be able to express their
-	likes, dislikes, opinions and views on what type of job
-	environment they would like to work in.
+By the end the lesson, students will be able to express their likes, dislikes, opinions and views on what type of job environment they would like to work in.
 #### Content Skills:
-	They will be introduced to different work environments. We will
-	compare and contrast these environments and discuss what we would
-	like and dislike your future job environment to have.
+They will be introduced to different work environments. We will compare and contrast these environments and discuss what we would like and dislike your future job environment to have.
 
-### Week 9:
+### Class 9:
 #### Topic (friends):
-	Gossiping
+Gossiping
 #### Language Skills(A):
-	By the end of the class, students will be able to spread rumors
-	by using the phrases "he said", "she said", "I heard",
-	"I thought", etc.
+By the end of the class, students will be able to spread rumors by using the phrases "he said", "she said", "I heard", "I thought", etc.
 #### Content Skills:
-	How do you talk about news that you heard in passing? How do you 
+How do you talk about news that you heard in passing? How do you 
 
-### Week 10:
+### Class 10:
 #### Topic (family):
-	How to protect your home (Married with Children ep 103)
+How to protect your home (Married with Children ep 103)
 #### Language Skills (A):
-	By the end of the lesson, students will be able to state one way
-	they can protect their home and 3 reasons why you choose that
-	method.
+By the end of the lesson, students will be able to state one way they can protect their home and 3 reasons why you choose that method.
 #### Content Skills:
-	How do you go about protecting your home? Do you buy and gun? Do
-	you get a guard dog? What else can you do?
+How do you go about protecting your home? Do you buy and gun? Do you get a guard dog? What else can you do?
 
-### Week 11:
+### Class 11:
 #### Topic (work):
-	Water cooler discussions
+Water cooler discussions
 #### Language Skills(A):
-	By the end of the class, students will be able to use situational
-	clues and limited knowledge to start a conversation with a
-	coworker (casual ice breakers). 
+By the end of the class, students will be able to use situational clues and limited knowledge to start a conversation with a coworker (casual ice breakers). 
 #### Content Skills:
-	How do start conversations with coworkers that you are not close
-	to?
+How do start conversations with coworkers that you are not close to?
 
-### Week 12:
+### Class 12:
 #### Topic (friends):
-	Given advice to a friend (fresh prince of bel-air 103)
+Given advice to a friend (fresh prince of bel-air 103)
 #### Language Skills(G):
-	By the end of the lesson, students will be able to give advice in a step by step sequence.
+By the end of the lesson, students will be able to give advice in a step by step sequence.
 #### Content Skills:
-	How to give advice to a friend on a specific topic. For example,
-	one can share their experience in a step by step matter in hopes
-	of giving them guidance.
+How to give advice to a friend on a specific topic. For example, one can share their experience in a step by step matter in hopes of giving them guidance.
 
-### Week 13:
+### Class 13:
 #### Topic (family):
-	Dinner with the parents (Married with Children ep 102)
-	(Black-ish 107)
+Dinner with the parents (Married with Children ep 102) (Black-ish 107)
 #### Language Skills(C):
-	By the end of the lesson, students will be able to describe food
-	and the reasons we eat food that food.
+By the end of the lesson, students will be able to describe food and the reasons we eat food that food.
 #### Content Skills:
-	What is food? What should you have for dinner?
+What is food? What should you have for dinner?
 
-### Week 14:
+### Class 14:
 #### Topic (work):
-	Receiving an award at work (Fresh prince of Bel-air 104)
+Receiving an award at work (Fresh prince of Bel-air 104)
 #### Language Skills(F):
-	By the end of class, students will be able to introduce a
-	friend/coworker and praise them for a job well done.
+By the end of class, students will be able to introduce a friend/coworker and praise them for a job well done.
 #### Content Skills:
-	How do you present a award someone? how do you praise someone? 
+How do you present a award someone? how do you praise someone? 
 
-### Week 15:
+### Class 15:
 #### Topic (friends):
-	Persuasion (Married with Children 104)
+Persuasion (Married with Children 104)
 #### Language Skills (A):
-	By the end of this lesson, students will be sell someone else on
-	an idea by appealing to their interest and dismissing their
-	worries.
+By the end of this lesson, students will be sell someone else on an idea by appealing to their interest and dismissing their worries.
 #### Content Skills:
-	How do you sell someone on your idea? 
+How do you sell someone on your idea?
 
-### Week 16:
+### Class 16:
 #### Topic (family):
-	How  do you punish kids? (Black-ish ep105)
+How  do you punish kids? (Black-ish ep105)
 #### Language Skills(E):
-	By the end of this lesson, student will be able to express at
-	least one way to discipline children and express the pros and
-	cons of their approach.  
+By the end of this lesson, student will be able to express at least one way to discipline children and express the pros and
+cons of their approach.  
 #### Content Skills:
-	When you get in trouble, how does your family punish you? Where
-	do you stand on the argument of whether or not you should hit
-	your kids?
-	
+When you get in trouble, how does your family punish you? Where do you stand on the argument of whether or not you should hit your kids?
 
 ## Materials used in class
 ### Video Clips
@@ -237,23 +195,23 @@ We will explore introducing oneself in three different events. One event involvi
 
 ## Rubic Explained
 ### Time
-	1 minute is below expectation.
-	2 minutes is at expectation.
-	3 minutes is above expectation.
+* 1 minute is below expectation.
+* 2 minutes is at expectation.
+* 3 minutes is above expectation.
 
 ### Number of Phrases used
-	2-4 phrases are below expectation.
-	5-7 phrases are at expectation.
-	8 or more phrases is above expectation.
+* 2-4 phrases are below expectation.
+* 5-7 phrases are at expectation.
+* 8 or more phrases is above expectation.
 
 ### Confidence
-	Confidence is defined by loudness of your voice, the fluency of
-	your speech, and your eye contact with the audience. You will
-	receive one point for each category. 3 points is expected.
+Confidence is defined by loudness of your voice, the fluency of
+your speech, and your eye contact with the audience. You will
+receive one point for each category. 3 points is expected.
 
 ### Prepared
-	1 point for your draft
-	1 point for covering the points mentioned in the draft
-	1 point for working well with your group during the presentation.
+* 1 point for your draft
+* 1 point for covering the points mentioned in the draft
+* 1 point for working well with your group during the presentation.
 	
-	3 points are expected
+3 points are expected
