@@ -25,9 +25,10 @@ I am responsible for:
 - Making classroom materials available to you.
 
 ## Grading Information
-* **Attendance: 5%** You much attend 85% of the classes to received attendance points in the final course score. You must attend at least 70% of the classes in order to take the final exam. 
-* **Participation: 10%** Being active in class, Speaking when you know the answer and when you do not know the answer, and helping out other students.
-* **Major Assignments, written work and homework: 15%** Some work will be completed during class time, but students **must** work outside of class time in order to complete some of the assignments.
+* **Attendance: 5%** You must attend 85% of the classes to received attendance points in the final course score. You must attend at least 70% of the classes in order to take the final exam. 
+* **Participation: 10%** Participating in class means actively contributing to the class. This includes speaking when you know the answer, speaking when you are not sure of the answer, and helping your fellow students.
+
+* **Major Assignments, written work and homework: 15%** Most work will be completed in class, but some work will require time outside of class in order to be completed.
 * **Mid term: 30%**
 * **Final: 40%**
 
@@ -52,21 +53,15 @@ I will try to limit the topics to the ones covered in class. As such, I am able 
 ## Course Schedule
 
 ### Theme:
-The worlds we live in. Each one of use have at least three different social contexts in which we live: Friends, Family, and Work/School. We will explore the similarities and differences in conversing in the above contexts.
+The worlds we live in. Each one of use have at least three different social contexts in which we live: Friends, Family, and Work/School. We will explore the similarities and differences of these worlds.
 
 ### Week 1:
 
 #### Topic:
 Who am I? (Fresh off the boat 103 - 7:20) (fresh prince of bel-air 102 -- Jazz introduction)
 #### Language Skills(F):
-By the end of this lesson, students will be able to introduce themselves appropriately to the social circle that they are interacting with.
-	
-Family (distant relatives): Name, relation, generic job/school information, relationship status, etc
-	
-Friends (making friends): Name, interests, hobbies, school/job
-	
-Coworker: Name, interests, where you live, job experience. 
-	
+By the end of this lesson, students will be able to introduce themselves, family, friends, and coworkers.
+		
 #### Content Skills:
 We will explore introducing oneself in three different events. One event involving family, one involving friends, and one involving coworkers.
 
