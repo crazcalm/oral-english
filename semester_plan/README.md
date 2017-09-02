@@ -54,13 +54,22 @@ I will try to limit the topics to the ones covered in class. As such, I am able 
 ### Theme:
 The worlds we live in. Each one of use have at least three different social contexts in which we live: Friends, Family, and Work/School. We will explore the similarities and differences of these worlds.
 
+### Class 0:
+#### Topic:
+Introduce the class to the students. Teacher and student introduction. Establishing class rules.
+
+#### Language Skills(F)
+By the end of the class, the students will be able to introduce themselves and a classmate to their teacher.
+
+#### Content Skills
+None 
+
 ### Class 1:
 
 #### Topic:
 Who am I? (Fresh off the boat 103 - 7:20) (fresh prince of bel-air 102 -- Jazz introduction)
 #### Language Skills(F):
 By the end of this lesson, students will be able to introduce themselves, family, friends, and coworkers.
-		
 #### Content Skills:
 We will explore introducing oneself in three different events. One event involving family, one involving friends, and one involving coworkers.
 
