@@ -3,7 +3,7 @@
 - Show: [Fresh Prince of Bel-Air](http://www.imdb.com/title/tt0098800/)
 - Episode: S1E02
 - Time: 13:50
-- Link to clip: 
+- Link to clip: None. Ask teacher for clip
 
 ## Script:
 - Geoffrey Butler: Master William. Their is a young gentleman downstairs with a rather large radio who is here to see you. He claims his name is Jazz.
