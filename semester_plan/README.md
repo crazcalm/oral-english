@@ -67,7 +67,11 @@ None
 ### Class 1:
 
 #### Topic:
-Who am I? (Fresh off the boat 103 - 7:20) (fresh prince of bel-air 102 -- Jazz introduction)
+Who am I?
+### Video Clips:
+- [Jessica meets Honey](https://github.com/crazcalm/oral-english/blob/master/clips/jessica_meets_honey.md)
+- [Dre meets Charlie](https://github.com/crazcalm/oral-english/blob/master/clips/dre_meets_charlie.md)
+- [Jazz, Will's friend, introduction](https://github.com/crazcalm/oral-english/blob/master/clips/jazz_introduction.md)
 #### Language Skills(F):
 By the end of this lesson, students will be able to introduce themselves, family, friends, and coworkers.
 #### Content Skills:
