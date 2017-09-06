@@ -24,3 +24,26 @@ Jessica & Honey: An accident, Dolores, can be an unhappy woman's best friend.
 - Jessica: Oh! I'm Jessica. It is so nice to meet you.
 
 - Honey: Nice to meet you too!
+
+## Words
+- Dolores Claiborne
+	+ Name of Movie. Name of the main character.
+
+- mistress
+	+ A woman, other than the spouse, with whom a married individual has a continue sexual relationship.
+
+- brakes
+	+ referring to car brakes.
+
+- suddenly
+	+ quick and unexpected
+
+- accident
+	+ An event that happens by chance. An event that is not intentional.
+
+- Stephen King
+	+ An author known for his scary novels and films.
+
+- neighbors
+	+ People that live near or next door to you.
+	
