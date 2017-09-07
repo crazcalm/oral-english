@@ -26,7 +26,7 @@ Watch Fresh Prince of Bel-Air clip where Jazz gets introduced. We will have a wo
 In groups of 3-5 people, students will created their own 3 act play to turn in and perform
 
 ## Debrief:
-- Explain what an exist slip is.
+- Explain what an exit slip is.
 - Exit questions:
 	- Give 3 examples of how to introduce someone.
 	- What did you like about today's class?
@@ -38,4 +38,4 @@ In groups of 3-5 people, students will created their own 3 act play to turn in a
 ## Anticipated Problems/Activities:
 
 ## Back-up Plan/Activities:
-Telephone (add link) using sentences from the clips watched in class.
+[Telephone](https://github.com/crazcalm/oral-english/tree/master/activities#telephone) using sentences from the clips watched in class.
