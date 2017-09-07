@@ -1,5 +1,5 @@
 # Jazz Introduction
-- [clip info](https://github.com/crazcalm/oral-english/blob/master/clips/jazz_introduction.md)
+- [clip information](https://github.com/crazcalm/oral-english/blob/master/clips/jazz_introduction.md)
 
 ## Questions
 1. Who is here to see master William?
@@ -9,3 +9,4 @@
 5. Why is Jazz there?
 6. Who is Mr. Banks?
 7. How did Will (or William) say hello to Jazz?
+8. Why should Mr. Banks care about Jazz?
