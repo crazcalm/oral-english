@@ -9,6 +9,10 @@ A curated list of awesome TEFL classroom activities.
 - [Hands on biography](#hands-on-biography)
 - [Three Act Play](#three-act-play)
 - [Hot Potato](#hot-potato)
+- [Telephone](#telephone)
+- [Simon Says](#simon-says)
+- [Two Truths and a Lie](#two-truths-and-a-lie)
+
 ## Cocktail Party
 Give each student a 3X5 card. Include the teacher (T). Have students (Ss) write their English name at the top (Have Ss Choose English name first or if none, Chiense name in pinyin). Collect cards. Give each Ss someone else's card. Write some questions on the board (What are your hobbies, favorite food, what did you do over break, etc). Ss should interview the person whose card that they have. Can take notes on one side of the card. Will also be interviewed by one other Ss. Should sit down when finished. When everyone has finished, teacher begins. T introduces the student he/she interviewed (Ss A) then sits down and turns over Ss A's card about Ss A (i.e. language difficulties, personality traits, public speaking skills, etc) Then Ss A gives T the card he/she has and the person who Ss A introduced than stand up to speak. T should take notes on the back of all cards about each person's speaking ability. If the chain breaks, have extra paper handy to take notes on the Ss. If Chain breaks, just choose a Ss who hasn't spoken yet to go next.
 
@@ -20,3 +24,14 @@ There is a particular play that goes along with this activity but can also creat
 
 ## Hot Potato
 Play music, pass the potato. When the music stops, ask that student a question. If using to review, can ask the student to write as many words as they know for categories you give them. Then, when the teacher asks a question, the student must answer using one of those words.
+
+## Telephone
+Divide class into groups of (pick a number), and arrange each group in a straight line or row. Ask for a volunteer listener from each group. Take them outside of the classroom and give them a message (one sentence of more, depending on the student's level). Open the door and let the students run to the first member of their group to whisper the message. Each member passes the message, by whispering, to their neighbor. When the message reaches the end, the last person should run to the board and write the message that they heard.
+
+The winner could be determined in various ways: first team to pass a legible, complete message (even if it is wrong), first team to finish, first team with a message closest to the original.
+
+## Simon Says
+Teaching verbs and/or parts of the body. As a class, play Simon says. If a student makes a mistake, that student will go to the front of the class and lead Simon Says. You may break the class into smaller groups and have them play on their own.
+
+## Two Truths and a Lie
+Everyone writes down three statements: Two that are true and one that is not true. The teacher first states his/her three statements and students guess which one they think is the lie. Put students in groups of four. Have each person read/tell their statements to the group and have the group guess which statement is not true. Or, can ask for a few volunteers to read their statements to the whole class. This can also be used to review content material. Students write down three statements, two that are correct and one that is not correct and then follow the directions above.

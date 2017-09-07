@@ -1,16 +1,20 @@
 # Who am I?
 
 ## Objectives:
-By the end of this lesson, students will be able to introduce themselves, family, friends, and coworkers.
+By the end of this lesson, students will be able to introduce themselves, family, friends, and/or coworkers.
 ## Content Skills:
 We will explore introducing oneself in three different events. One event involving family, one involving friends, and one involving coworkers.
 ## Key Expressions/Content:
 
 ## Materials:
 - [Jazz video clip](https://github.com/crazcalm/oral-english/blob/master/clips/jazz_introduction.md)
+- add Jessic meets Honey clip.
 
 ## Warm up:
 Brief presentation on what on what are introductions and the many ways someone can introduce themselves.
+
+Show Jessica meets Honey clip and work on the questions in for that video in groups.
+
 
 ## Presentation:
 Watch Fresh Prince of Bel-Air clip where Jazz gets introduced. We will have a worksheet to complete while watching it. We will go over the different ways Jazz was introduced and compare when such sayings are appropriate.
@@ -34,4 +38,4 @@ In groups of 3-5 people, students will created their own 3 act play to turn in a
 ## Anticipated Problems/Activities:
 
 ## Back-up Plan/Activities:
-Show the Black-ish clip explaining how people saw hello with a nod.
+Telephone (add link) using sentences from the clips watched in class.
