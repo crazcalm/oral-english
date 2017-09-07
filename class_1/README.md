@@ -20,7 +20,7 @@ Show Jessica meets Honey clip and work on the questions in for that video in gro
 Watch Fresh Prince of Bel-Air clip where Jazz gets introduced. We will have a worksheet to complete while watching it. We will go over the different ways Jazz was introduced and compare when such sayings are appropriate.
 
 ## Practice:
-[3 act play](https://github.com/crazcalm/oral-english/blob/master/clips/jazz_introduction.md) based off the Jazz video clip.
+[3 act play](https://github.com/crazcalm/oral-english/tree/master/activities#three-act-play) based off the [Jazz video clip](https://github.com/crazcalm/oral-english/blob/master/clips/jazz_introduction.md).
 
 ## Production:
 In groups of 3-5 people, students will created their own 3 act play to turn in and perform
