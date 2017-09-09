@@ -11,7 +11,8 @@
 - Jessica: [Dolores Claiborne](http://www.imdb.com/title/tt0109642/)
 
 - TV: Sometimes their driving home from their mistress's apartment and their brakes suddenly fail.
-Jessica & Honey: An accident, Dolores, can be an unhappy woman's best friend.
+
+- Jessica, Honey & TV: An accident, Dolores, can be an unhappy woman's best friend.
 
 - Jessica: My husband does not like it when I watch [Stephen King](http://www.imdb.com/name/nm0000175/) movies. He thinks I get scared.
 
