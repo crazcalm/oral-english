@@ -13,6 +13,8 @@ A curated list of awesome TEFL classroom activities.
 - [Simon Says](#simon-says)
 - [Two Truths and a Lie](#two-truths-and-a-lie)
 - [Salad Bowl](#salad-bowl)
+- [Strip Story](#strip-story)
+- [Chain Story](#chain-story)
 
 ## Cocktail Party
 Give each student a 3X5 card. Include the teacher (T). Have students (Ss) write their English name at the top (Have Ss Choose English name first or if none, Chiense name in pinyin). Collect cards. Give each Ss someone else's card. Write some questions on the board (What are your hobbies, favorite food, what did you do over break, etc). Ss should interview the person whose card that they have. Can take notes on one side of the card. Will also be interviewed by one other Ss. Should sit down when finished. When everyone has finished, teacher begins. T introduces the student he/she interviewed (Ss A) then sits down and turns over Ss A's card about Ss A (i.e. language difficulties, personality traits, public speaking skills, etc) Then Ss A gives T the card he/she has and the person who Ss A introduced than stand up to speak. T should take notes on the back of all cards about each person's speaking ability. If the chain breaks, have extra paper handy to take notes on the Ss. If Chain breaks, just choose a Ss who hasn't spoken yet to go next.
@@ -50,3 +52,10 @@ In this round, the player picks a word from the salad bowl and must act it out w
 
 Round three: One word clue
 For the last round, a player picks a word from the bowl and gives 1 clue to get his teammates to guess the correct word.
+
+## Strip Story
+Give each student a sentence/part of a story. Have the students work together to put the story in order by standing in a line with their sentence strips. Divide the class into groups of 8-10 students when doing this activity. Can review by having a couple  groups read their story by each person reading their sentence out loud.
+
+## Chain Story
+
+Oral or written: Teacher begins a story either on paper or orally. Students are in groups and one-by-one must continue the story. If you do a written version, good idea to have multiple stories going around at once so that students are kept busy. If you do a written story, can tell the groups to choose the best one and read it to the class.
