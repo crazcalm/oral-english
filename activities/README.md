@@ -12,6 +12,7 @@ A curated list of awesome TEFL classroom activities.
 - [Telephone](#telephone)
 - [Simon Says](#simon-says)
 - [Two Truths and a Lie](#two-truths-and-a-lie)
+- [Salad Bowl](#salad-bowl)
 
 ## Cocktail Party
 Give each student a 3X5 card. Include the teacher (T). Have students (Ss) write their English name at the top (Have Ss Choose English name first or if none, Chiense name in pinyin). Collect cards. Give each Ss someone else's card. Write some questions on the board (What are your hobbies, favorite food, what did you do over break, etc). Ss should interview the person whose card that they have. Can take notes on one side of the card. Will also be interviewed by one other Ss. Should sit down when finished. When everyone has finished, teacher begins. T introduces the student he/she interviewed (Ss A) then sits down and turns over Ss A's card about Ss A (i.e. language difficulties, personality traits, public speaking skills, etc) Then Ss A gives T the card he/she has and the person who Ss A introduced than stand up to speak. T should take notes on the back of all cards about each person's speaking ability. If the chain breaks, have extra paper handy to take notes on the Ss. If Chain breaks, just choose a Ss who hasn't spoken yet to go next.
@@ -35,3 +36,17 @@ Teaching verbs and/or parts of the body. As a class, play Simon says. If a stude
 
 ## Two Truths and a Lie
 Everyone writes down three statements: Two that are true and one that is not true. The teacher first states his/her three statements and students guess which one they think is the lie. Put students in groups of four. Have each person read/tell their statements to the group and have the group guess which statement is not true. Or, can ask for a few volunteers to read their statements to the whole class. This can also be used to review content material. Students write down three statements, two that are correct and one that is not correct and then follow the directions above.
+
+## Salad Bowl
+Ask everyone to write down a single word on a slip of paper. Fold up all the papers and place them into a salad bowl.
+
+Slip the group into two teams. There are three rounds in the game and each round is played in a similar way. To start, a person from the first team picks a word out of the salad bowl and his teammates try to guess the word. Once the word is guessed, the same player picks another word quickly from the salad bowl for his teammates to guess. He keeps picking up words until his 1 minute turn is up (you need a timer to keep track). After one minute, give the team 1 point for every correct word that was guessed. Once the first team finishes, the next team goes until all the words in the salad bowl are guessed.
+
+Round one: verbal clues
+The player picks a word from the bowl and describes it to his teammates without saying the actual word. Once the word is correctly guessed, he can select another word from the bowl for his teammates to guess.
+
+Round two: charades
+In this round, the player picks a word from the salad bowl and must act it out without talking.
+
+Round three: One word clue
+For the last round, a player picks a word from the bowl and gives 1 clue to get his teammates to guess the correct word.
