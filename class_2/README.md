@@ -7,31 +7,26 @@ By the end of this lesson, the students will be able to describe 10 hobbies.
 None
 
 ## Key Expressions/Content:
-1. Calligraphy
-2. Cooking
-3. Dancing
-4. Listening to music
-5. Photography
-6. Playing musical instruments
-7. Reading
-8. Singing
-9. Table tennis
-10. Watching Television
-11. Playing video games
-12. Baseball
-13. Basketball
-14. Driving
-15. Running
-16. Skateboarding
-17. Soccer
-18. Rock climbing
-19. Shopping
-20. Tennis
-21. Badminton
-22. Fishing
-23. Volleyball
-24. Swimming
-25. Biking
+1. Cooking
+2. Dancing
+3. Listening to Music
+4. Reading
+5. Singing
+6. Table tennis
+7. Watching Television
+8. Playing video games
+9. Baseball
+10. Basketball
+11. Running
+12. Soccer
+13. Rock climbing
+14. Shopping
+15. Tennis
+16. Badminton
+17. Fishing
+18. Volleyball
+19. Swimming
+20. Biking
 
 ## Materials:
 
