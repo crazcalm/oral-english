@@ -29,6 +29,7 @@ None
 20. Biking
 
 ## Materials:
+None
 
 ## Warm up:
 ### Introduction:
@@ -38,12 +39,13 @@ None
 - I presentation on the list of hobbies and ways of describing them.
 
 ## Practice:
-- Activity: Telepone
+- Activity: Telephone
 
 ## Production:
 - Activity: Salad bowl
 
 ## Debrief:
+Hobbies are important, but being able to describe your hobbies is also important. There will be plenty of times when you will not remember the word that you would like to use. In those times, you will rely on your ability to describe that word. That is why this is important.
 
 ## Anticipated Problems/Activities:
 
