@@ -1,7 +1,7 @@
 # Help!
 
 ## Objectives:
-By the end of this lesson, students will be able to ask for help and offer help in at least 3 different ways.
+By the end of this lesson, students will be able to ask for help and offer help in at least 5 different ways.
 
 ## Content Skills
 
@@ -10,9 +10,6 @@ By the end of this lesson, students will be able to ask for help and offer help 
 - Could I help you ...
 - Thank you, but I do not need any help.
 - Help! I need somebody
-- I am feeling down
-- I appreciate you being around
-- Won't you please help me!
 
 ## Materials:
 - ["Help!" by the Beatles](https://github.com/crazcalm/oral-english/blob/master/songs/help.md)
@@ -47,4 +44,3 @@ None (I do not think I need to explain the importance of asking for help...)
 		- I do not need any help
 		- Why won't you help me
 Each person that loses has to blow up a balloon.
-		
