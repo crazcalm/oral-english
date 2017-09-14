@@ -42,7 +42,7 @@ None (I do not think I need to explain the importance of asking for help...)
 ## Anticipated Problems/Activities:
 
 ## Back-up Plan/Activities:
-- [Fizz Buzz]()
+- [Fizz Buzz](https://github.com/crazcalm/oral-english/tree/master/activities#fizz-buzz)
 	- Phrases:
 		- I do not need any help
 		- Why won't you help me
