@@ -41,3 +41,14 @@
 - Carl: Thank you, but I don't need any help.
 
 - Russel: Ow.
+
+## Words/Phrases
+- assistance: 
+- Are you in need of {help word or phrase}:
+	- Are you in need of help?
+	- Are you in need of a hand?
+	- Are you in need of any assistance?
+- Slow down: A polite way to tell someone to stop.
+- boy scout: a member of an organization of boys (Boy′ Scouts`), having as its goals the development of self-reliance and usefulness to others.
+- wilderness explorer in tribe 54, wood lodge 12: Name of Russle's group
+

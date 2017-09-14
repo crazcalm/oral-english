@@ -9,7 +9,7 @@
 
 - (When) When I was younger (When I was young) so much younger than today
 - (I never need) I never needed anybody's help in any way
-- (Now) But now these days are gone (These days are gone) and I'm not so self assured
+- (Now) But now these days are gone (These days are gone) and I'm not so self-assured
 - (And now I find) Now I find I've changed my mind, I've opened up the doors
 
 - Help me if you can, I'm feeling down
@@ -29,7 +29,7 @@
 
 - When I was younger, so much younger than today
 - I never needed anybody's help in any way
-- (Now) But now these days are gone (These days are gone) and I'm not so self assured
+- (Now) But now these days are gone (These days are gone) and I'm not so self-assured
 - (And now I find) Now I find I've changed my mind, I've opened up the doors
 
 - Help me if you can, I'm feeling down
@@ -41,3 +41,11 @@
 - Ooh 
 
 ## Words/Phrases:
+- self-assured: Confident in one's abilities.
+- opened up the doors: To allow something to happen, Create and opportunity for something to happen.
+- feeling down: to feel sad
+- appreciate: To be grateful
+- 'round = around
+- get my feet back on the ground ~ feet on the ground: be (or remain) practical and sensible
+- ev'ry = every
+- insecure: Not confident or assured
