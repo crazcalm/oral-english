@@ -27,12 +27,24 @@ A  brief presentation on what it means to ask for help (Part 1) and what it mean
 - Part 2: Go over video clip script
 
 ## Practice:
+- Part 1: Sing song (Help) in groups
+- Part 2: read the script as a class.
+
 
 ## Production:
+- Part 1: Sing it as a class
+- Part 2: Read script
+	- Break the class into groups (of 4). Make them stand in a circle. Play music for 30 seconds (or a minute). While the music is playing, they will hit a balloon amongst each other. When the music stops, the person who the balloon is closest too, much read the a line of the script. Continue playing until bored...
 
 ## Debrief:
+None (I do not think I need to explain the importance of asking for help...)
 
 ## Anticipated Problems/Activities:
 
 ## Back-up Plan/Activities:
-
+- [Fizz Buzz]()
+	- Phrases:
+		- I do not need any help
+		- Why won't you help me
+Each person that loses has to blow up a balloon.
+		
