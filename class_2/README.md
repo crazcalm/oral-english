@@ -40,9 +40,23 @@ None
 
 ## Practice:
 - Activity: Telephone
+	- I like jumping into the pool.
+	- How does he dance like that?
+	- I like dinner with friends.
+	- You need to take Badminton seriously.
+	- I enjoy reading in the library.
+	- My family and I watch television all the time.
+	- Baseball is a popular sport in America.
+	- She has been playing video games all day.
+	- She went shopping for a new computer.
+	- He runs for 30 minutes a day.
+	- I want to go biking, but I do not own a bike.
+	- I suck at ping pong.
+	- I hate playing tennis.
 
 ## Production:
-- Activity: Salad bowl
+- Activity: Chain story
+	- Topic sentence: Yesterday, I was ______ and I ______.
 
 ## Debrief:
 Hobbies are important, but being able to describe your hobbies is also important. There will be plenty of times when you will not remember the word that you would like to use. In those times, you will rely on your ability to describe that word. That is why this is important.
@@ -50,6 +64,5 @@ Hobbies are important, but being able to describe your hobbies is also important
 ## Anticipated Problems/Activities:
 
 ## Back-up Plan/Activities:
-- Activity: Chain story
-	- Topic sentence: Yesterday, I was _______ and I _______.
+- Activity: Salad bowl
 
