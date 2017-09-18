@@ -86,34 +86,34 @@ Dad: Call if you need us.
 Ferris: They bought it!
 
 ##Words
-- honey
-- fever
-- Papa
-- clammy
-- ick
-- fruitful
-- junior
-- unfair
-- upset
-- aspirin
-- Vermont
-- pal
-- loving
-- caring
-- special
-- pumpkin
-- sweety
+- honey: A pet name for someone you like.
+- fever: an abnormally high body temperature. 
+- Papa: father
+- clammy: covered with a cold, sticky moisture; cold and damp
+- ick: signals disgust
+- fruitful: producing good results; beneficial; profitable: 
+- junior: a person who is younger than another.
+- unfair: not fair
+- upset: to disturb mentally or emotionally
+- aspirin: pain relieving medicine
+- Vermont: A state in USA
+- pal: a very close, intimate friend
+- loving: feeling or showing love
+- caring: to feel concern about
+- special: being such in an exceptional degree; particularly valued
+- pumpkin: A word used for an adorable person, or one that you love. 
+- sweety: A pet name for someone you care about.
 
 
 ## Phrases
 - What's the matter? ~ What's wrong?
-- For Christ sake
-- Doesn't feel well
-- Yea right
-- Dry that on out, you can fertilize the lawn
-- Bite the big one
-- I want out
-- be in the area
-- Check in on
-- 6 sharp
-- They bought it
+- For Christ sake: I am surprised or annoyed by this 
+- Doesn't feel well: sick
+- Yea right: A sarcastic, yet obvious, dissimination of disbelief in what people are saying. i.e. calling people out on their bullshit. 
+- Dry that on out, you can fertilize the lawn: Bullshit
+- Bite the big one: to die or to get killed
+- I want out: To wish to leave a project, a business, or other undertaking. 
+- be in the area: will be near by
+- Check in on: I will stop by and see you
+- 6 sharp: 6 pm exactly
+- They bought it: They believed that lie.
