@@ -1,15 +1,15 @@
 # Ferris Bueller Sick
 ## Origin
 - Movie: Ferris Bueller's day off
-- Time:
+- Time: 00:00:30 - 00:03:15
 - Link to clip: 
 
 ## Script:
-Mom:Ferris? Ferris? Tab!
+Mom:Ferris? Ferris? Tom!
 
 Dad:What's the matter?
 
-Mom: Oh is it Ferris.
+Mom: Oh is it Ferris. 
 
 Dad: What? What's wrong?
 
@@ -23,9 +23,9 @@ Dad: What's the matter Ferris?
 
 Ferris: Papa
 
-Mom: Can you feel his hands. They are cold and clamy.
+Mom: Can you feel his hands. They are cold and clammy.
 
-Dad: hem
+Dad: ick
 
 Ferris: I'm fine. I get up.
 
@@ -53,18 +53,67 @@ Sister: Bite the big one Junior?
 
 Mom: Thank you Jeanie. You get to school.
 
-Sister: You're letting him stay home?! I can't beleive this. If I was bleeding out my eyes, you guys would make me go to school. This is so unfair.
+Sister: You're letting him stay home?! I can't believe this. If I was bleeding out my eyes, you guys would make me go to school. This is so unfair.
 
 Ferris: Jeanie. Please don't be upset with me. You have your health. Be thankful. Oh (in pain).
 
 Sister: That's it. I want out of this family.
 
-Ferris: I'm okay. I'll just sleep. Maybe I have an aspirian around noon.
+Ferris: I'm okay. I'll just sleep. Maybe I have an aspirin around noon.
 
-Mom: Hey listen, I am showing some houses from that, that family from Vermont so I will be in the area. Now, my office will know just where I am if you need me, okay?
+Mom: Hey listen, I am showing some houses to that, that family from Vermont so I will be in the area. Now, my office will know just where I am if you need me, okay?
 
-Ferris: 'kay
+Ferris: okay
 
-Mom: 'kay
+Mom: okay
 
-Dad: 
+Dad: I'll check on you too pal.
+
+Ferris: Its, its nice to know that I have such loving, caring parents. You're both very special people.
+
+Mom: You get better pumpkin
+
+ferris: okay pumpkin
+
+Dad:I'll be home at 6 sharp. If you need anything, call.
+
+Mom: We love you sweety.
+
+Ferris: I love you too
+
+Dad: Call if you need us.
+
+Ferris: They bought it!
+
+##Words
+- honey
+- fever
+- Papa
+- clammy
+- ick
+- fruitful
+- junior
+- unfair
+- upset
+- aspirin
+- Vermont
+- pal
+- loving
+- caring
+- special
+- pumpkin
+- sweety
+
+
+## Phrases
+- What's the matter? ~ What's wrong?
+- For Christ sake
+- Doesn't feel well
+- Yea right
+- Dry that on out, you can fertilize the lawn
+- Bite the big one
+- I want out
+- be in the area
+- Check in on
+- 6 sharp
+- They bought it
