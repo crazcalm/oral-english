@@ -5,9 +5,10 @@
 - Link to clip: [Youku](http://v.youku.com/v_show/id_XMzAzMTI3OTY4OA==.html?spm=a2h3j.8428770.3416059.1)
 
 ## Script:
-Mom:Ferris? Ferris? Tom!
+### Group A
+Mom: Ferris? Ferris? Tom!
 
-Dad:What's the matter?
+Dad: What's the matter?
 
 Mom: Oh is it Ferris. 
 
@@ -26,6 +27,8 @@ Ferris: Papa
 Mom: Can you feel his hands. They are cold and clammy.
 
 Dad: ick
+
+### Group B
 
 Ferris: I'm fine. I get up.
 
@@ -47,6 +50,8 @@ Mom: He doesn't feel well.
 
 Sister: Yea right. Dry that on out, you can fertilize the lawn.
 
+### Group C
+
 Ferris: Jeanie? Is that you? Jeanie? I can't see that far. Jeanie. Jeanie, I...
 
 Sister: Bite the big one Junior?
@@ -67,13 +72,15 @@ Ferris: okay
 
 Mom: okay
 
+### Group D
+
 Dad: I'll check on you too pal.
 
 Ferris: Its, its nice to know that I have such loving, caring parents. You're both very special people.
 
 Mom: You get better pumpkin
 
-ferris: okay pumpkin
+Ferris: okay pumpkin
 
 Dad:I'll be home at 6 sharp. If you need anything, call.
 
