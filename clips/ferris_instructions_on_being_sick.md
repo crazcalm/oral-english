@@ -1,7 +1,7 @@
 # Ferris Instructions on being sick
 ## Ferris Bueller's Day off
 - Time:00:04:01 - 00:04:35
-- Link to clip: 
+- Link to clip: [Youku](http://v.youku.com/v_show/id_XMzAzMTI5NDExMg==.html?spm=a2h3j.8428770.3416059.1)
 
 ## Script:
 The key to faking out the parents is the clammy hands. Its a good non-specific symptom. I am a big believer in it. A lot of people will tell you a good phony fever is a dead lock, but, eh, you get a nervous mother, you could wind up in a doctor's office. That is worse than school.

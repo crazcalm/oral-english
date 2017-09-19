@@ -2,7 +2,7 @@
 ## Origin
 - Movie: Ferris Bueller's day off
 - Time: 00:00:30 - 00:03:15
-- Link to clip: 
+- Link to clip: [Youku](http://v.youku.com/v_show/id_XMzAzMTI3OTY4OA==.html?spm=a2h3j.8428770.3416059.1)
 
 ## Script:
 Mom:Ferris? Ferris? Tom!
@@ -85,7 +85,7 @@ Dad: Call if you need us.
 
 Ferris: They bought it!
 
-##Words
+## Words
 - honey: A pet name for someone you like.
 - fever: an abnormally high body temperature. 
 - Papa: father
