@@ -2,6 +2,7 @@
 ## Origin
 - Show: Black-ish
 - Episode: Season 1 Episode 13
+- [Questions](https://github.com/crazcalm/oral-english/blob/master/clip_questions/how_to_be_nice.md)
 - Link to clips:
 	- [Youku part 1](http://v.youku.com/v_show/id_XMzAzNTQxMjEwOA==.html?spm=a2h3j.8428770.3416059.1)
 	- [Youku part 2](http://v.youku.com/v_show/id_XMzAzNTQyNDkzNg==.html?spm=a2h3j.8428770.3416059.1)
