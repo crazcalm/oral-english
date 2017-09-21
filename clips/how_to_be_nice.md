@@ -141,6 +141,7 @@
 		- This is going to break her.
 		- This is going to break him.
 		- This is going to break them.
+- That guy was rough ~ That guy was ugly
 
 
 ## Script 5
