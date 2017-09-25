@@ -4,6 +4,8 @@
 - Episode: 102
 - Time: 00:08:45
 - Link to clip: [Youku](http://v.youku.com/v_show/id_XMzA0NjE1NzUxNg==.html?spm=a2h3j.8428770.3416059.1)
+- Link to clip questions: [Clip Questions](https://github.com/crazcalm/oral-english/blob/master/clip_questions/what_is_food.md)
+- Link to discussion questions: [Discussion Questions](https://github.com/crazcalm/oral-english/blob/master/discussion_questions/what_is_food.md)
 
 ## Script:
 - Son: Hi dad! Hungry!
