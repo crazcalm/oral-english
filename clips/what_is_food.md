@@ -34,7 +34,9 @@
 
 - Dad: Sure.
 
-- Dad: Gee, you know, you're right. I doubted you, but I feel a burst of energy coming. Here it comes now.
+- Dad: Gee, you know, you're right. I doubted you, but I feel a burst of energy coming.
+
+- Dad: Here it comes now.
 
 - Dad: Here comes another wave. What are you doing to me? I work. I want food. You know what food is? It's hot stuff you put in your mouth. It smells good, you swallow it, and you want more.
 That's what food is.
@@ -46,24 +48,27 @@ That's what food is.
 - Dad: Now, I'm gonna watch the news. And when it's over, I want some form of dead animal on my plate.
 
 ### Words
-- starving
-- traffic jam
-- billboard
-- hon
-- slide
-- riboflavin
-- folacin
-- iron
-- magnesium
-- granola bar
-- dessert
-- healthier
-- energetic
-- doubted
-- swallow
+- starving: feel very hungry
+- traffic jam: a line of road traffic at or near a standstill because of road construction, an accident, or heavy congestion.
+	- ![](../img/traffic_jam.jpeg)
+- billboard: a large outdoor board for displaying advertisements.
+	- ![](../img/billboard.jpg)
+- hon: short for honey (pet name)
+- slide: move along a smooth surface while maintaining continuous contact with it
+- riboflavin: Vitamin B2
+- folacin: Vitamin M
+- iron: Dietary supplements containing iron
+- magnesium: Dietary supplements containing magnesium
+- granola bar: A bar consisting typically of rolled oats, brown sugar or honey, dried fruit, and nuts.
+	- ![](../img/granola_bars.jpg)
+- dessert: cake, pie, fruit, pudding, ice cream, etc
+- healthier: improve your health
+- energetic: showing or involving great activity.
+- doubted: to no longer feel uncertain about
+- swallow: an act of swallowing something, especially food or drink
 
 
 ### Phrases
-- burst of energy
-- Another wave (or energy)
-- the children are here
+- burst of energy: Having sudden energy
+- Another wave (or energy): Having another burst of energy
+- the children are here: Let's not talk about this in front of the kids.
