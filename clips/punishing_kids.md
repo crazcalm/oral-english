@@ -6,9 +6,9 @@
 - Link to clip: [Youku](http://v.youku.com/v_show/id_XMzA0NjE4NDkzMg==.html?spm=a2h3j.8428770.3416059.1)
 
 ## Script:
-Dre: Okay, speaking of family, I have a question. Were any of you spanked as kids? Sure was.
+Dre: Okay, speaking of family, I have a question. Were any of you spanked as kids?
 
-Male blue shirt: My dad used to have a Rob Roy, then beat me with his dress shoe.
+Male blue shirt: Sure was. My dad used to have a Rob Roy, then beat me with his dress shoe.
 
 Male pink shirt: My mom used to put rings on just to spank me.
 
@@ -30,7 +30,7 @@ Crowd: Oh, totally.
 
 Male blue shirt: I do. Definitely. And this country is losing ground because we're no longer spanking. Our kids are last in everything.
 
-Male green shirt: It's true All the countries that are beating their kids are beating our ass.
+Male green shirt: It's true. All the countries that are beating their kids are beating our ass.
 
 Dre: Well, I'm convinced. I'm gonna spank my son.
 
@@ -54,3 +54,20 @@ Dre: I thought you guys were all for spanking?
 
 Lady long sleeved shirt: In the abstract, yeah, but you don't hit your own child. Who does that? 
 
+### Words
+- spanked
+- Rob Roy
+- rings
+- crack
+- skull
+- rolling pin
+- horrible
+- totally
+- terrible
+- abstract
+
+### Phrases
+- good lord
+- losing ground
+- beating our ass
+- all for {something}

@@ -1,46 +1,69 @@
-# Title
+# What is Food
 ## Origin
 - Show: Married With Children
 - Episode: 102
 - Time: 00:08:45
-- Link to clip: [Youku]()
+- Link to clip: [Youku](http://v.youku.com/v_show/id_XMzA0NjE1NzUxNg==.html?spm=a2h3j.8428770.3416059.1)
 
 ## Script:
-Son: Hi dad! Hungry!
+- Son: Hi dad! Hungry!
 
-Dad: Starving. I didn't have time for lunch, got caught in a traffic jam, and had to sit for 10 minutes staring at a billboard of the best looking burger on a rope I have ever seen. Let's eat!
+- Dad: Starving. I didn't have time for lunch, got caught in a traffic jam, and had to sit for 10 minutes staring at a billboard of the best looking burger on a rope I have ever seen. Let's eat!
 
-Dad: Hi hon!
+- Dad: Hi hon!
 
-Mom: Hi Al. I made something different.
+- Mom: Hi Al. I made something different.
 
-Dad: I don't care, just slide it in front of me and plenty of it.
+- Dad: I don't care, just slide it in front of me and plenty of it.
 
-Mom: Okay. Here is comes.
+- Mom: Okay. Here is comes.
 
-Dad: Ah, just skip the salad. Let's just eat, okay?
+- Dad: Ah, just skip the salad. Let's just eat, okay?
 
-Mom: That's dinner Al. You've got your  riboflavin, folacin, iron and magnesium, all right there.
+- Mom: That's dinner Al. You've got your  riboflavin, folacin, iron and magnesium, all right there.
 
-Dad: Come on, Peg.
+- Dad: Come on, Peg. Where's my food?
 
-Mom: Where's my food? That's it, Al. You finish that, and you can have a granola bar for dessert.
+- Mom: That's it, Al. You finish that, and you can have a granola bar for dessert.
 
-Daughter: Ooh, beats the heck out of the pie we usually have, huh, Dad?
+- Daughter: Ooh, beats the heck out of the pie we usually have, huh, Dad?
 
-Dad: Okay, Peg. What did I do?
+- Dad: Okay, Peg. What did I do?
 
-Mom: Nothing. It's good food. It's going to make us much healthier and much more energetic. Try it.
+- Mom: Nothing. It's good food. It's going to make us much healthier and much more energetic. Try it.
 
-Dad: Sure.
+- Dad: Sure.
 
-Dad: Gee, you know, you're right. I doubted you, but I feel a burst of energy coming. Here it comes now.
+- Dad: Gee, you know, you're right. I doubted you, but I feel a burst of energy coming. Here it comes now.
 
-Dad: Here comes another wave. What are you doing to me? I work. I want food. You know what food is? It's hot stuff you put in your mouth. It smells good, you swallow it, and you want more.
+- Dad: Here comes another wave. What are you doing to me? I work. I want food. You know what food is? It's hot stuff you put in your mouth. It smells good, you swallow it, and you want more.
 That's what food is.
 
-Mom: Al, the children are here.
+- Mom: Al, the children are here.
 
-Dad: Oh, I'm sorry.
+- Dad: Oh, I'm sorry.
 
-Dad: Now, I'm gonna watch the news. And when it's over, I want some form of dead animal on my plate.
+- Dad: Now, I'm gonna watch the news. And when it's over, I want some form of dead animal on my plate.
+
+### Words
+- starving
+- traffic jam
+- billboard
+- hon
+- slide
+- riboflavin
+- folacin
+- iron
+- magnesium
+- granola bar
+- dessert
+- healthier
+- energetic
+- doubted
+- swallow
+
+
+### Phrases
+- burst of energy
+- Another wave (or energy)
+- the children are here
