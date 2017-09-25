@@ -28,7 +28,7 @@
 
 - Carl: Kid
 
-- Russel: ...and I am a wilderness explorer in tribe 54, wood lodge 12
+- Russel: ...and I am a wilderness explorer in tribe 54
 
 - Carl: Slow down
 
