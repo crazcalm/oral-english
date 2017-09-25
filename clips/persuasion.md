@@ -3,7 +3,7 @@
 - Show: Married with Children
 - Episode: S1E04
 - Time: 00:08:42
-- Link to clip: 
+- Link to clip: [Youku](http://v.youku.com/v_show/id_XMzA0NjE3MTg2NA==.html?spm=a2h3j.8428770.3416059.1)
 
 ## Script:
 ### Part 1

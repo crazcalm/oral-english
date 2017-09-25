@@ -3,7 +3,7 @@
 - Show: Married With Children
 - Episode: 102
 - Time: 00:08:45
-- Link to clip: 
+- Link to clip: [Youku]()
 
 ## Script:
 Son: Hi dad! Hungry!
