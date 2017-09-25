@@ -70,5 +70,5 @@ That's what food is.
 
 ### Phrases
 - burst of energy: Having sudden energy
-- Another wave (or energy): Having another burst of energy
+- Another wave (of energy): Having another burst of energy
 - the children are here: Let's not talk about this in front of the kids.
