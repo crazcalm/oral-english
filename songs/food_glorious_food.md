@@ -83,12 +83,12 @@
 - [burnt](https://cn.bing.com/images/search?q=burnt%20food&qs=n&form=QBIR&sp=-1&pq=burnt%20food&sc=8-8&sk=&cvid=673E56EB2FA948BB92B9234F119EF1A6): overcooked food that has turned black from cooking
 - [undercooked](https://cn.bing.com/images/search?q=undercooked%20food&qs=n&form=QBIR&sp=-1&pq=undercooked%20food&sc=8-15&sk=&cvid=B85CA11093694DAC83EB1929AA9C392F): Not cooked enough, opposite of burnt.
 - crude: in a natural or raw state.
-- senses go reeling: 
-- Fill up feeling
-- fated
-- brood
-- Magical
-- Wonderful
-- Marvelous
-- fabulous
-- Beautiful
+- senses go reeling: To be excited and happy 
+- Fill up feeling: To feel full (stomach)
+- fated: be destined to happen
+- brood: think deeply about something that makes one unhappy.
+- Magical: beautiful or delightful
+- Wonderful: inspiring delight, pleasure, or admiration; extremely good; marvelous
+- Marvelous: extremely good or pleasing; splendid
+- fabulous: amazingly good; wonderful
+- Beautiful: pleasing the senses
