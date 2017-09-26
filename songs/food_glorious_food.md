@@ -2,6 +2,7 @@
 ## Song
 - Food Glorious Food
 - [Youku](http://v.youku.com/v_show/id_XMzI2MTkwOTg0.html?spm=a2h0j.8191423.module_basic_relation.5~5!2~5~5!11~5!2~1~3~A)
+- Questions: [Link to Questions](https://github.com/crazcalm/oral-english/blob/master/songs_questions/food_glorious_food.md)
 
 ## Words/Phrases:
 - Is it worth the waiting for?
@@ -22,7 +23,7 @@
 - Peas pudding and saveloys
 - What next is the question?
 - Rich gentlemen have it, boys
-- in digestion!
+- indigestion!
 
 - Food Glorious food
 - We're anxious to try it
@@ -30,8 +31,10 @@
 - Our favorite diet
 - Just picture a great big steak
 - Fried, roasted, or stewed
-- Oh food! wonderful food! marvelous
-- food! glorious food!
+- Oh food!
+- wonderful food!
+- marvelous food!
+- glorious food!
 
 - Food glorious food
 - don't care what it looks like
