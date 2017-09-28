@@ -20,7 +20,7 @@
 
 - Dad: What? We splurge a bit. Spend a little money. We can afford to. It is apart of being on vacation.
 
-- Kid in Sleeping bag: Preach it dad!
+- Kid in Sleeping bag: Preach it big man!
 
 - Dad: Look. We work hard all year. No one harder than you. Just let go for a day and relax.
 
@@ -46,6 +46,7 @@
 - checkout: To physically leave a place or to mentally remove yourself from the situation. 
 - splurge: freely spending money
 - preach: earnestly advocate (a belief or course of action)
+- big man: a male leader whose leadership is based on influence
 - [relax](https://cn.bing.com/images/search?q=People+Relaxing&FORM=RESTAB): make or become less tense or anxious
 - [marinating meat](https://cn.bing.com/images/search?q=define%3amarinating+meat&form=HDRSC2&first=1&cw=1084&ch=533): soak (meat, fish, or other food) in a marinade
 - [massage](https://cn.bing.com/images/search?q=massage&qs=n&form=QBIR&sp=-1&pq=massage&sc=8-7&sk=&cvid=D2F89B1700F84FB0BEBE8507EE7EB11D): the rubbing and kneading of muscles and joints of the body with the hands
