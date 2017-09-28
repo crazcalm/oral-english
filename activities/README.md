@@ -17,6 +17,7 @@ A curated list of awesome TEFL classroom activities.
 - [Chain Story](#chain-story)
 - [Find Someone Who](#find-someone-who)
 - [Fizz Buzz](#fizz-buzz)
+- [Guess the local place](#guess-the-local-place)
 
 ## Cocktail Party
 Give each student a 3X5 card. Include the teacher (T). Have students (Ss) write their English name at the top (Have Ss Choose English name first or if none, Chiense name in pinyin). Collect cards. Give each Ss someone else's card. Write some questions on the board (What are your hobbies, favorite food, what did you do over break, etc). Ss should interview the person whose card that they have. Can take notes on one side of the card. Will also be interviewed by one other Ss. Should sit down when finished. When everyone has finished, teacher begins. T introduces the student he/she interviewed (Ss A) then sits down and turns over Ss A's card about Ss A (i.e. language difficulties, personality traits, public speaking skills, etc) Then Ss A gives T the card he/she has and the person who Ss A introduced than stand up to speak. T should take notes on the back of all cards about each person's speaking ability. If the chain breaks, have extra paper handy to take notes on the Ss. If Chain breaks, just choose a Ss who hasn't spoken yet to go next.
@@ -83,3 +84,13 @@ Heres an example:
 - Player 1: 9
 - Player 2: Fizz etc..
  
+## Guess the local place
+
+1. Divide the class into teams. Then set the children a challenge. They have to write three clues about a local building or place of interest. The trick is to write ambiguous clues, so that the answer is not immediately obvious, or could refer to more than one place. See Box 35 for examples.
+
+2. Team members take turns to read out a clue. If a rival team makes an
+incorrect guess, they are out of the game. If they guess the place after one
+clue, they score three points; after two clues, they score two points; and
+after three clues, they score one point. If no other team can guess the
+place, then the writers of the clues score three points.
+

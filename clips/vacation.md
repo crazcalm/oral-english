@@ -3,7 +3,8 @@
 - Show: Fresh off the Boat
 - Episode: Season 2 Episode 1
 - Time: 00:13:56
-- Link to clip: 
+- Link to clip: [Youku](http://v.youku.com/v_show/id_XMzA1MjcyODM2OA==.html?spm=a2h3j.8428770.3416059.1)
+- Link to Questions: [Questions](https://github.com/crazcalm/oral-english/blob/master/clip_questions/vacation.md)
 
 ## Script:
 - Dad: I didn't tell you because I know you think vacations are a waste of time.

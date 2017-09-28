@@ -1,6 +1,6 @@
 # Vacation
 ## Clip
-- add link
+- [Clip link](https://github.com/crazcalm/oral-english/blob/master/clips/vacation.md)
 ## Questions
 1. What does Mom think about vacations?
 2. How does dad stay positive?
