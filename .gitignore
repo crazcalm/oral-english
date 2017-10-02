@@ -1,3 +1,4 @@
 #Personal files
 */*backup
 *.backup
+*/*/package-lock.json
