@@ -55,19 +55,30 @@ Dre: I thought you guys were all for spanking?
 Lady long sleeved shirt: In the abstract, yeah, but you don't hit your own child. Who does that? 
 
 ### Words
-- spanked
-- Rob Roy
-- rings
-- crack
-- skull
-- rolling pin
-- horrible
-- totally
-- terrible
-- abstract
+- spanked: to be slapped with one's open hand or a flat object, especially on the buttocks as a punishment
+
+- Rob Roy: I don't know what this is/
+
+- [rings](https://cn.bing.com/images/search?q=rings&qs=n&form=QBIR&sp=-1&pq=rings&sc=8-5&sk=&cvid=24B62F1842114351BDE5A66E3F72261A): a small circular band, typically of precious metal
+
+- crack me in the [skull](https://cn.bing.com/images/search?q=skull&qs=n&form=QBIR&sp=-1&pq=skull&sc=8-4&sk=&cvid=A1F055109D294A9ABB353C6087FE3821) ~ hit me in the head
+
+- [rolling pin](https://cn.bing.com/images/search?q=rolling%20pin&qs=n&form=QBIR&sp=-1&pq=rolling%20pin&sc=8-11&sk=&cvid=5718101E21FB427892A14A80BFD2D75C): a cylinder rolled over pastry or dough to flatten or shape it.
+
+- horrible: very unpleasant
+
+- Oh, totally ~ Yes! I agree! 
+
+- terrible: very bad
+
+- abstract: existing in thought or as an idea 
 
 ### Phrases
-- good lord
-- losing ground
-- beating our ass
-- all for {something}
+- good lord: An expression of surprise or astonishment
+- losing ground: Becoming worse and worse in comparison to someone else
+- beating our ass: Beating us badly
+- I'm/We're all for {something}: I/We agree with {something}
+	- I'm all for not going to class
+	- I agree with not going to class
+	- I'm all for sleeping till 10 am
+	- I agree with sleeping till 10 am
