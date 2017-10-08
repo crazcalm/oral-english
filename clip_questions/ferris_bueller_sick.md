@@ -1,5 +1,6 @@
 # Ferris Bueller Sick
-## add link
+## Clip:
+- [Link to clip](https://github.com/crazcalm/oral-english/blob/master/clips/ferris_bueller_sick.md)
 ## Questions
 - Who is Ferris Bueller?
 - Is Ferris sick?
