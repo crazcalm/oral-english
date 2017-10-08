@@ -97,14 +97,14 @@ Ferris: They bought it!
 - honey: A pet name for someone you like.
 - fever: an abnormally high body temperature. 
 - Papa: father
-- clammy: covered with a cold, sticky moisture; cold and damp
+- [clammy](https://cn.bing.com/images/search?q=clammy&FORM=HDRSC2): covered with a cold, sticky moisture; cold and damp
 - ick: signals disgust
 - fruitful: producing good results; beneficial; profitable: 
 - junior: a person who is younger than another.
 - unfair: not fair
-- upset: to disturb mentally or emotionally
-- aspirin: pain relieving medicine
-- Vermont: A state in USA
+- [upset](https://cn.bing.com/images/search?q=upset&qs=n&form=QBIR&sp=-1&pq=upse&sc=8-4&sk=&cvid=996A881FF9D6400C9FA8DCD4AFAD3E2D): to disturb mentally or emotionally
+- [aspirin](https://cn.bing.com/images/search?q=aspirin&qs=n&form=QBIR&sp=-1&pq=aspirin&sc=8-7&sk=&cvid=C6BCD3C715994FD59C1648ABA1D19E95): pain relieving medicine
+- [Vermont](https://cn.bing.com/images/search?q=vermont%20pictures&qs=IM&form=QBIR&sp=1&pq=vermont%20p&sc=8-9&sk=&cvid=6E21288DAC1748EC821CA6C202C9E1D3): A state in USA
 - pal: a very close, intimate friend
 - loving: feeling or showing love
 - caring: to feel concern about
