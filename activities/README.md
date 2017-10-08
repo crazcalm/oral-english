@@ -19,6 +19,7 @@ A curated list of awesome TEFL classroom activities.
 - [Fizz Buzz](#fizz-buzz)
 - [Guess the local place](#guess-the-local-place)
 - [Blind Guide](#blind-guide)
+- [My Free Time](#my-free-time)
 
 ## Cocktail Party
 Give each student a 3X5 card. Include the teacher (T). Have students (Ss) write their English name at the top (Have Ss Choose English name first or if none, Chiense name in pinyin). Collect cards. Give each Ss someone else's card. Write some questions on the board (What are your hobbies, favorite food, what did you do over break, etc). Ss should interview the person whose card that they have. Can take notes on one side of the card. Will also be interviewed by one other Ss. Should sit down when finished. When everyone has finished, teacher begins. T introduces the student he/she interviewed (Ss A) then sits down and turns over Ss A's card about Ss A (i.e. language difficulties, personality traits, public speaking skills, etc) Then Ss A gives T the card he/she has and the person who Ss A introduced than stand up to speak. T should take notes on the back of all cards about each person's speaking ability. If the chain breaks, have extra paper handy to take notes on the Ss. If Chain breaks, just choose a Ss who hasn't spoken yet to go next.
@@ -102,4 +103,14 @@ Place landmarks within the classroom. For example, one corner can be home, anoth
 Break the students into pairs. One student will use their hands to cover their eyes while the other student will received a list of locations that he/she must guide their partner to.
 
 Note: you may only use words to communicate. You are not allowed to physically guide your partner to their destination.
+
+## My Free Time
+
+Divide the class into groups of three. Each person in the group has to decide on three free time activities. The first person mimes the three activities and then says What am I doing?
+
+The others have to guess the three activities and name them in the correct order. In giving their answers, they say You are . . . -ing.
+
+Then the others in the group have a turn at miming while their classmates try to guess the three activities in the correct order.
+
+While the children are miming and guessing, go from group to group and check their pronunciation and grammar.
 
