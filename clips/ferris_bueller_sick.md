@@ -3,6 +3,7 @@
 - Movie: Ferris Bueller's day off
 - Time: 00:00:30 - 00:03:15
 - Link to clip: [Youku](http://v.youku.com/v_show/id_XMzAzMTI3OTY4OA==.html?spm=a2h3j.8428770.3416059.1)
+- Link to Questions: [Questions](https://github.com/crazcalm/oral-english/blob/master/clip_questions/ferris_bueller_sick.md)
 
 ## Script:
 ### Group A
