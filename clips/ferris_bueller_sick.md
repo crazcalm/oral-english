@@ -11,7 +11,7 @@ Mom: Ferris? Ferris? Tom!
 
 Dad: What's the matter?
 
-Mom: Oh is it Ferris. 
+Mom: Oh it's Ferris. 
 
 Dad: What? What's wrong?
 
@@ -49,7 +49,7 @@ Sister: Oh fine. What's this? What's his problem?
 
 Mom: He doesn't feel well.
 
-Sister: Yea right. Dry that on out, you can fertilize the lawn.
+Sister: Yea right. Dry that one out, you can fertilize the lawn.
 
 ### Group C
 
@@ -118,7 +118,7 @@ Ferris: They bought it!
 - For Christ sake: I am surprised or annoyed by this 
 - Doesn't feel well: sick
 - Yea right: A sarcastic, yet obvious, dissimination of disbelief in what people are saying. i.e. calling people out on their bullshit. 
-- Dry that on out, you can fertilize the lawn: Bullshit
+- Dry that one out, you can fertilize the lawn: Bullshit
 - Bite the big one: to die or to get killed
 - I want out: To wish to leave a project, a business, or other undertaking. 
 - be in the area: will be near by
