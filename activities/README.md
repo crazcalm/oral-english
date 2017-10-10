@@ -20,6 +20,9 @@ A curated list of awesome TEFL classroom activities.
 - [Guess the local place](#guess-the-local-place)
 - [Blind Guide](#blind-guide)
 - [My Free Time](#my-free-time)
+- [Neighborhood Watch](#neighborhood-watch)
+- [Mafia](#mafia)
+
 
 ## Cocktail Party
 Give each student a 3X5 card. Include the teacher (T). Have students (Ss) write their English name at the top (Have Ss Choose English name first or if none, Chiense name in pinyin). Collect cards. Give each Ss someone else's card. Write some questions on the board (What are your hobbies, favorite food, what did you do over break, etc). Ss should interview the person whose card that they have. Can take notes on one side of the card. Will also be interviewed by one other Ss. Should sit down when finished. When everyone has finished, teacher begins. T introduces the student he/she interviewed (Ss A) then sits down and turns over Ss A's card about Ss A (i.e. language difficulties, personality traits, public speaking skills, etc) Then Ss A gives T the card he/she has and the person who Ss A introduced than stand up to speak. T should take notes on the back of all cards about each person's speaking ability. If the chain breaks, have extra paper handy to take notes on the Ss. If Chain breaks, just choose a Ss who hasn't spoken yet to go next.
@@ -114,3 +117,22 @@ Then the others in the group have a turn at miming while their classmates try to
 
 While the children are miming and guessing, go from group to group and check their pronunciation and grammar.
 
+## Neighborhood Watch
+
+Separate the class into two groups; The neighborhood and the outsiders. The outsiders, which is a much smaller group than the neighborhood, will stand in front of the class.
+
+The outsiders will be given 4 to 5 items to hide amongst themselves. While standing in front of the neighborhood, the outsiders will secretly stash one or more items their person(s). When ready, they will line up in front of the class.
+
+The story goes, "A few items have recently disappeared from the neighborhood and the neighborhood watch believe the outsides took them. It is up the the neighborhood watch to find the items!"
+
+Once everything is set, the teacher will call on student to accuse and outsider of taking a specific item. Their accusation will be of the form, "I believe {{Person}} took {{item}}".
+
+If one outside is wrongly accused twice, then they may sit down and take the item(s) they have with them.
+
+The round ends when all outsiders are sitting down or all outsides have been rightly accused (or some mixture of the two).
+
+When the round is over, you may select new students to be the outsiders and play another round.
+
+## Mafia
+
+- [click link for rules](https://icebreakerideas.com/mafia-game/)
