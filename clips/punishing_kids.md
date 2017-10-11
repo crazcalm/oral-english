@@ -57,7 +57,7 @@ Lady long sleeved shirt: In the abstract, yeah, but you don't hit your own child
 ### Words
 - spanked: to be slapped with one's open hand or a flat object, especially on the buttocks as a punishment
 
-- Rob Roy: I don't know what this is/
+- [Rob Roy](https://cn.bing.com/images/search?q=rob%20roy%20cocktail&qs=IM&form=QBIR&sp=1&pq=rob%20roy%20co&sc=8-10&sk=&cvid=7EA436C0DE804699ABE51FBE7DF38D73): A drink
 
 - [rings](https://cn.bing.com/images/search?q=rings&qs=n&form=QBIR&sp=-1&pq=rings&sc=8-5&sk=&cvid=24B62F1842114351BDE5A66E3F72261A): a small circular band, typically of precious metal
 

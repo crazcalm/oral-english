@@ -4,6 +4,7 @@
 - Episode: 103
 - Time: 00:05:53
 - Link to clip: [Youku](http://v.youku.com/v_show/id_XMzA0NjE2NjAxMg==.html?spm=a2h3j.8428770.3416059.1)
+- Link to Questions: [Questions](https://github.com/crazcalm/oral-english/blob/master/clip_questions/protect_your_home.md)
 
 ## Script:
 

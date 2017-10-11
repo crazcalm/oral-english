@@ -1,6 +1,6 @@
 # Protect Your Home
 ## Clip
-	- [Link to clip](https://github.com/crazcalm/oral-english/blob/master/clips/protect_your_home.md)
+- [Link to clip](https://github.com/crazcalm/oral-english/blob/master/clips/protect_your_home.md)
 ## Questions
 1. What was stolen?
 2. "We should get more involved with the ______________"?
