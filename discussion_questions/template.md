@@ -2,5 +2,5 @@
 ## Clip
 - add clip
 
-## Food for Thought
+## Discussion Questions
 - add questions

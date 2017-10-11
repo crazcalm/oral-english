@@ -22,7 +22,7 @@ Male green shirt: My parents didn't believe in spanking, and I turned out awesom
 
 Male green shirt: Hey, what do they do to kids in China?
 
-Lady sleeveless shirt: Uh, no idea. I grew up in Torrance, and I'm Korean.
+Lady sleeveless shirt: Uh, no idea. I grew up in [Torrance](https://cn.bing.com/images/search?q=Torrance+CA&FORM=RESTAB), and I'm Korean.
 
 Dre: Who thinks they were better off being spanked?
 
