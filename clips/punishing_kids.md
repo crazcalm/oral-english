@@ -4,6 +4,9 @@
 - Episode: S1E05
 - Time:00:04:52
 - Link to clip: [Youku](http://v.youku.com/v_show/id_XMzA0NjE4NDkzMg==.html?spm=a2h3j.8428770.3416059.1)
+- Link to questions: [Questions](https://github.com/crazcalm/oral-english/blob/master/clip_questions/punishing_kids.md)
+- Link to Discussion Questions: [Discussion Questions](https://github.com/crazcalm/oral-english/blob/master/discussion_questions/punishing_kids.md)
+
 
 ## Script:
 Dre: Okay, speaking of family, I have a question. Were any of you spanked as kids?
