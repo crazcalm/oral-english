@@ -22,7 +22,7 @@
 - Al: Listen, think of it, Steve. A little refrigerator for your beer. A little powder on your hands. That feeling of the cue stick sliding through your fingers. That squeak of the chalk.
 But most of all, that feeling of adrenaline coursing through your veins as you make that two-cushion bank shot.
 
-- Steve: [SIGHS] Gee.
+- Steve: (SIGHS) Gee.
 
 ### Part 2
 
@@ -57,35 +57,36 @@ Doesn't that embarrass you?
 
 
 ### Words Part 1
-- poolroom
-- privacy
-- terrific
-- refrigerator
-- cue stick
-- squeak
-- chalk
-- two-cushion bank shot
+- [poolroom](https://cn.bing.com/images/search?q=poolroom&form=HDRSC2&first=1&cw=1080&ch=531): a commercial establishment where pool or billiard games are played.
+- privacy: the state or condition of being free from being observed or disturbed by other people
+- terrific: extremely good; excellent
+- [refrigerator](https://cn.bing.com/images/search?q=define%3arefrigerator&form=HDRSC2&first=1&cw=1080&ch=531): an appliance or compartment that is artificially kept cool and used to store food and drink.
+- [cue stick](https://cn.bing.com/images/search?q=cue+stick&form=HDRSC2&first=1&cw=1080&ch=531): The stick you use while playing pool 
+- squeak: a short, high-pitched sound or cry (He is referring to the sound made when chalking the cue stick)
+- [chalk](https://cn.bing.com/images/search?q=cue%20chalk&qs=n&form=QBIR&sp=-1&pq=cue%20chalk&sc=8-7&sk=&cvid=478DB12BFA1B4113A7E4279897E50F59): The stuff you put in the tip of your cue stick.
+- [two-cushion bank shot](http://v.youku.com/v_show/id_XMTQ5MTI1MTQxNg==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2): a type of trick shot in pool.
 
 ### Phrases Part 1
-- stand in the way
+- stand in the way: To prevent something from happening.
 - powder on your hands - pool chalk on your hands
-- adrenaline coursing through your veins
+- adrenaline coursing through your veins: That excitement you get from doing something amazing!
 
 ### Words Part 2
-- workout
-- the boys
-- All-purpose
-- equipment
-- Chocolate sauce
-- gonna
-- embarrass
-- stealing
-- towels
-- Whipped cream
+- workout: exercising
+- the boys: A way of referring to a group of guys.
+- All-purpose room: A room where you can do anything you want. 
+- [(exercise) equipment](https://cn.bing.com/images/search?q=exercise+equipment&form=HDRSC2&first=1&cw=1080&ch=531): The items people use in a gym to exercise. 
+- [Chocolate sauce](https://cn.bing.com/images/search?q=chocolate+sauce&FORM=AWIR): A sauce made out of Chocolate. 
+- gonna ~ going to
+- [embarrass](https://tse4-mm.cn.bing.net/th?id=OIP.vNw6ckYNEZuVAhVy95WK_AD5D6&p=0&pid=1.1): The feeling you get when you do somethinge wrong by accident. 
+- [stealing](https://cn.bing.com/images/search?q=stealing&form=HDRSC2&first=1&cw=1080&ch=531): take (another person's property) without permission or legal right and without intending to return it
+- [towels](https://cn.bing.com/images/search?q=towel&form=HDRSC2&first=1&cw=1080&ch=531): a piece of thick absorbent cloth or paper used for drying oneself or wiping things dry.
+- [Whipped cream](https://cn.bing.com/images/search?q=whip+cream&form=HDRSC2&first=1&cw=1080&ch=531): See photos
 
 
 ### Phrases Part 2
 
-- give you an appetite
-- dragging me along
-- what the heck
+- give you an appetite: Makes you hungry
+- dragging me along ~ taking me with you
+- what the heck:
+	+ ![](../img/jackie_what_the_heck.jpg)
