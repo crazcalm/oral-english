@@ -4,6 +4,7 @@
 - Episode: S1E04
 - Time: 00:08:42
 - Link to clip: [Youku](http://v.youku.com/v_show/id_XMzA0NjE3MTg2NA==.html?spm=a2h3j.8428770.3416059.1)
+- Link to questions: [Questions](https://github.com/crazcalm/oral-english/blob/master/clip_questions/persuasion.md)
 
 ## Script:
 ### Part 1
