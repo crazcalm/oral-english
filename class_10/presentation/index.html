@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<section>
+						<h1>Persuasion</h1>
+					</section>
+					<section>
+						<h2>What is persuasion?</h2>
+						<p class="fragment">Is the ability to convince someone to do what you tell them to do</p>
+					</section>
+					<section>
+						<h2>Example of persuasion</h2>
+						<p class="fragment">A group of people want to play basketball. One kid does not want to play basketball.</p>
+						<p class="fragment">One kid says, you should play basketball with us because we need another person.</p>
+						<p class="fragment">That kid then goes with them to play basketball.</p>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>How do you persuade people?</h2>
+					</section>
+					<section>
+						<h2>Step 1: Tell them what they should do</h2>
+						<p class="fragment">Ex: You should _________</p>
+						<p class="fragment">- help me with my homework.</p>
+						<p class="fragment">- go play basketball with us.</p>
+						<p class="fragment">- buy a new computer.</p>
+					</section>
+					<section>
+						<h2>Step 2: Tell them why they should listen to you</h2>
+						<p class="fragment">You should help me with my homework because _____</p>
+						<p class="fragment">- we are friends.</p>
+						<p class="fragment">- the faster I finish it, the sooner we can leave.</p>
+						<p class="fragment">- if you do not help me, I will hit you.</p>
+					</section>
+					<section>
+						<h2>Cont.</h2>
+						<p class="fragment">You should play basketball with us because _________</p>
+						<p class="fragment">- it will be fun.</p>
+						<p class="fragment">- we need an extra person.</p>
+						<p class="fragment">- I want you to join us.</p>
+					</section>
+					<section>
+						<h2>Cont.</h2>
+						<p class="fragment">You should buy a new computer because _________</p>
+						<p class="fragment">- you need it for school.</p>
+						<p class="fragment">- they are on sale.</p>
+						<p class="fragment">- you can't play games on your current computer.</p>
+					</section>
+				</section>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</body>
+</html>
