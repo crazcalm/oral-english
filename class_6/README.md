@@ -13,6 +13,7 @@ By the end of this lesson the students will be able to say 3 basic phrases when 
 - Cashier: "That will be {price}"
 
 ## Materials:
+- Paper and markers (if you get a chance to make menus)
 - Menus and food pictures
 	- ![](../img/mcdonalds_menu2.jpg)
 	- ![](../img/red_lobster_menu.jpg)
