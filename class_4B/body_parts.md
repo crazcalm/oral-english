@@ -20,20 +20,20 @@
 
 # Sickness and illnesses
 
-1. [Sprained ankle](v.youku.com/v_show/id_XMzEzMTI2MDg5Ng==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
+1. [Sprained ankle](http://v.youku.com/v_show/id_XMzEzMTI2MDg5Ng==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
 
-2. [Back Pain](v.youku.com/v_show/id_XMjg3OTg0OTc5Mg==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
+2. [Back Pain](http://v.youku.com/v_show/id_XMjg3OTg0OTc5Mg==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
 
-3. [Neck Pain](v.youku.com/v_show/id_XMzE1NjkxNzY0OA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
+3. [Neck Pain](http://v.youku.com/v_show/id_XMzE1NjkxNzY0OA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
 
-4. [Jammed Fingers](v.youku.com/v_show/id_XNjI2MjU1MDE2.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
+4. [Jammed Fingers](http://v.youku.com/v_show/id_XNjI2MjU1MDE2.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
 
-5. [Diarrhea](v.youku.com/v_show/id_XMzAyMjg0NDI3Ng==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
+5. [Diarrhea](http://v.youku.com/v_show/id_XMzAyMjg0NDI3Ng==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
 
-6. [Headache or head pain](v.youku.com/v_show/id_XNTA4MzA1OTM2.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
+6. [Headache or head pain](http://v.youku.com/v_show/id_XNTA4MzA1OTM2.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
 
-7. [Sneezing](v.youku.com/v_show/id_XMzEyMzkwNTAwNA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
+7. [Sneezing](http://v.youku.com/v_show/id_XMzEyMzkwNTAwNA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
 
-8. [Vomiting](v.youku.com/v_show/id_XMjk1NDcxMzUwOA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
+8. [Vomiting](http://v.youku.com/v_show/id_XMjk1NDcxMzUwOA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
 
-9. [Butt pain](v.youku.com/v_show/id_XNTE1MDM3NDU2.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
+9. [Butt pain](http://v.youku.com/v_show/id_XNTE1MDM3NDU2.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
