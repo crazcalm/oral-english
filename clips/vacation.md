@@ -33,7 +33,7 @@
 
 - Dad: No no no no no no no no. I know its free, but its freezing in here.
 
-- Dad: See, a part of being on vacation is enjoying yourself. I'm going to book you a massage at the spa.
+- Dad: See, apart of being on vacation is enjoying yourself. I'm going to book you a massage at the spa.
 
 - Mom: No! No!
 
