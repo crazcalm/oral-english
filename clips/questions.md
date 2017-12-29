@@ -1,4 +1,4 @@
-# Answer our question!
+ # Answer our question!
 ## Origin
 - Show: Animaniacs
 - Episode: 9
@@ -16,7 +16,7 @@ Llama
 
 - Dot: But not as annoying.
 
-- Yakko: Try. No Richard Simmons.
+- Yakko: True. No Richard Simmons.
 
 - Wakko: Hey! There it is! The temple of Wally Llama.
 
@@ -60,9 +60,9 @@ Llama
 
 - Yakko, Wakko, and Dot: Llama, Llama, Llama our question answer please.
 
-- Yakko, Wakko, and Dot: When we here the answer, we promise that we'll leave. Hey!
+- Yakko, Wakko, and Dot: When we hear the answer, we promise that we'll leave. Hey!
 
-- Llama: Oh, a thousand petties on me.
+- Llama: Oh, a thousand pities on me.
 
 - Dot: Come on mister llama head.
 
@@ -74,7 +74,7 @@ Llama
 
 - Wakko: But your eyes say yes.
 
-- Llama: What a minute. I am the great Wally Llama, the wiset being on Earth. I must use my smarty brains. Ah, I know where they will never find me.
+- Llama: What a minute. I am the great Wally Llama, the wisest being on Earth. I must use my smarty brains. Ah, I know where they will never find me.
 
 - Llama: (Chants llama)
 
