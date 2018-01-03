@@ -21,12 +21,12 @@ The max points for each category is 5 points. The max score for this exam is 15 
 
 - (Punish your kids)
 	+ How were you punished as a child?
-	+ What is one good or bad thing you do as a child? 
+	+ What is one good or bad thing you did as a child? 
 		+ (sentence structure) When I was a child, I ________ 
 		
 - (Protect your Home)
 	+ How do you protect your home?
-	+ If there was a thief in you home, what would you do?
+	+ If there was a thief in your home, what would you do?
 
 - (Persuasion)
 	+ I do not like going to class, I do not like to wake up early, and I do not like to doing homework. Please persuade me to do one of the things that I do not like.
@@ -35,7 +35,7 @@ The max points for each category is 5 points. The max score for this exam is 15 
 
 ### Note(s)
 
-- I will  record your presentation so that I can grade them after class.
+- I will record your presentation so that I can grade them after class.
 
 ### FAQ
 
