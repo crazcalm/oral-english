@@ -16,7 +16,7 @@
 
 - Carl: No
 
-- Russel: I could help you cross your porch.
+- Russel: I could help you cross your porch?
 
 - Carl: No
 

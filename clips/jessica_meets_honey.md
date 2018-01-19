@@ -4,6 +4,7 @@
 - Episode: S1E03
 - Time: 7:20
 - Link to clip: [Youku](http://v.youku.com/v_show/id_XMzAwMzE3MTUyOA==.html?spm=a2h3j.8428770.3416059.1)
+- Link to Questions: [Questions](https://github.com/crazcalm/oral-english/blob/master/clip_questions/jessica_meets_honey.md)
 
 ## Script:
 - TV: They die and leave their wives their money.

@@ -89,5 +89,4 @@ Doesn't that embarrass you?
 
 - give you an appetite: Makes you hungry
 - dragging me along ~ taking me with you
-- what the heck:
-	+ ![](../img/jackie_what_the_heck.jpg)
+- what the heck: Why not?

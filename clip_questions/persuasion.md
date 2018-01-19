@@ -1,6 +1,8 @@
 # Persuasion
 ## Clip
 - link to clip: [Youku](http://v.youku.com/v_show/id_XMzA0NjE3MTg2NA==.html?spm=a2h3j.8428770.3416059.1)
+- link to script: [Script](https://github.com/crazcalm/oral-english/blob/master/clips/persuasion.md)
+
 
 ## Questions
 ### Part 1
